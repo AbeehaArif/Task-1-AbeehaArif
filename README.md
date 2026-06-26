@@ -1,4 +1,4 @@
-# Project 1: Rule-Based AI Bot
+# Task 1: Rule-Based AI Bot
 
 ## Project Description
 This is a deterministic, rule-based AI assistant developed as part of my internship at **DecodeLabs**. The bot utilizes efficient string sanitization and Python dictionary mapping to act as a robust conversational guardrail. It guarantees 100% hallucination-free, safe, and accurate responses based on predefined organizational knowledge and interactive intents.
